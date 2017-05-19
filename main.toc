@@ -1,0 +1,3 @@
+\select@language {danish}
+\contentsline {section}{\numberline {1}Some Title}{3}
+\contentsline {subsection}{\numberline {1.1}Some Subtitle}{3}
